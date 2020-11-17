@@ -1,0 +1,13 @@
+com\task\calculator\CalculateFare.class
+com\task\model\modelEnums\TapType.class
+com\task\model\modelEnums\StopType.class
+com\task\model\Tap.class
+com\task\model\Trip.class
+com\task\Main.class
+com\task\model\Trip$TripBuilder.class
+com\task\reader\ReadWriteCSV.class
+com\task\model\Tap$TapBuilder.class
+com\task\calculator\TransactionCalculator.class
+com\task\reader\ReadWriteImpl.class
+com\task\model\modelEnums\StatusType.class
+com\task\calculator\TransactionCalculator$TransactionCalculatorBuilder.class
