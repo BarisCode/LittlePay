@@ -2,7 +2,7 @@
 
 Program Execution
 A jar file named “TripsManagement-1.0-SNAPSHOT.jar” is available in the target folder of the code uploaded on github. A sample input file has been created in the resources folder for the purpose of execution and tests. The following command is an example:
-  java -jar TripsManagement-1.0-SNAPSHOT.jar <absolute-path-of-taps.csv> <absolute-path-of-trips.csv> 
+      java -jar TripsManagement-1.0-SNAPSHOT.jar <absolute-path-of-taps.csv> <absolute-path-of-trips.csv> 
  
 Assumptions Made
   - The input csv (taps.csv) is well-formed and the right path provided 
