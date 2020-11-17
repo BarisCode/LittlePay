@@ -1,4 +1,4 @@
-# LittlePay
+# LittlePay Coding Challenge
 
 Program Execution
 A jar file named “TripsManagement-1.0-SNAPSHOT.jar” is available in the target folder of the code uploaded on github. A sample input file has been created in the resources folder for the purpose of execution and tests. The following command is an example:
